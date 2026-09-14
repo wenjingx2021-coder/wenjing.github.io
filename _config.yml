@@ -12,9 +12,9 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Wenjing Xiao"
 name                     : &name "Wenjing Xiao"
 description              : &description "Ph.D. student researching population ageing, long-term care, and social security."
-url                      : "https://wenjing.github.io"
-baseurl                  : ""
-repository               : "wenjing/wenjing.github.io"
+url                      : "https://wenjingx2021-coder.github.io"
+baseurl                  : "/wenjing.github.io"
+repository               : "wenjingx2021-coder/wenjing.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
