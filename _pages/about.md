@@ -46,7 +46,7 @@ My current research uses a randomized vignette experiment to investigate whether
 
 4. Yang, H., Wang, J., **Xiao, W.**, & Liu, Y. (2023). The impact of Internet use on marital satisfaction. *Population Journal*, 45(1), 96–112. [In Chinese; CSSCI]
 
-## Manuscripts under Review
+## Manuscripts Submitted for Publication
 
 - **Xiao, W.**, & Lu, J. Living arrangements and mortality risk among older adults.
 
