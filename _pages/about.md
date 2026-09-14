@@ -39,7 +39,7 @@ My current research uses a randomized vignette experiment to investigate whether
 
 ## Publications
 
-1. Yang, H., **Xiao, W.**, & Fang, G. (2024).[Long-term care arrangements and mortality risk among disabled older adults]([https://zgrkkx.ajcass.com/Magazine/Show/96459](https://kns.cnki.net/kcms2/article/abstract?v=sb6TFb_dKpoeiZ-D_t6fkbWQWML5m7WKNSklal3FkXs2-RUdq0k6miRlfLXnQkKrF-zlhxIgDIi3Jjt4HD4Ojip4xvo7_4Yco3SdofzPbGWmXM5FxboR3I87024hej6U-ocPkTk_9IS_jCLU5_-3B4-gjRa_ist2cfIAAdvyWyzHzoGGqeYeHQ==&uniplatform=NZKPT&language=CHS)). *Chinese Journal of Population Science*, 38(3), 114–128. [In Chinese; CSSCI]
+1. Yang, H., **Xiao, W.**, & Fang, G. (2024).[Long-term care arrangements and mortality risk among disabled older adults](https://zgrkkx.ajcass.com/Magazine/Show/96459](https://kns.cnki.net/kcms2/article/abstract?v=sb6TFb_dKpoeiZ-D_t6fkbWQWML5m7WKNSklal3FkXs2-RUdq0k6miRlfLXnQkKrF-zlhxIgDIi3Jjt4HD4Ojip4xvo7_4Yco3SdofzPbGWmXM5FxboR3I87024hej6U-ocPkTk_9IS_jCLU5_-3B4-gjRa_ist2cfIAAdvyWyzHzoGGqeYeHQ==&uniplatform=NZKPT&language=CHS)). *Chinese Journal of Population Science*, 38(3), 114–128. [In Chinese; CSSCI]
 
 3. Yang, H., Wang, J., & **Xiao, W.** (2023). [The impact of childbearing on marital satisfaction](https://kns.cnki.net/kcms2/article/abstract?v=sb6TFb_dKpqRJEmWNGk6YFBdhX_CGHqouIGRuKFhDJIk8znnB6EP4vr0k9698u9hrdJAwf4kPNQPzuKKqyO5HWo45pQld3EBDlif5rInl5Tp2mmsxx2Pe8q7NAEeGbkXUTU-tjXJqgWg0R67URfiAAimPBgGEyYyxInLGCVu7p70bYPXT4OaVw==&uniplatform=NZKPT&language=CHS). *China Youth Study*, 2023(5), 82–93, 96. [In Chinese; CSSCI]
 
