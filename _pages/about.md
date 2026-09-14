@@ -39,7 +39,7 @@ My current research uses a randomized vignette experiment to investigate whether
 
 ## Publications
 
-1. Yang, H., **Xiao, W.**, & Fang, G. (2024). [Long-term care arrangements and mortality risk among disabled older adults](https://zgrkkx.ajcass.com/Magazine/Show/96459). *Chinese Journal of Population Science*, 38(3), 114–128. [In Chinese; CSSCI]
+1. Yang, H., **Xiao, W.**, & Fang, G. (2024). Long-term care arrangements and mortality risk among disabled older adults. *Chinese Journal of Population Science*, 38(3), 114–128. [In Chinese; CSSCI]
 
 2. Yang, H., Wang, J., & **Xiao, W.** (2023). The impact of childbearing on marital satisfaction. *China Youth Study*, 2023(5), 82–93, 96. [In Chinese; CSSCI]
 
