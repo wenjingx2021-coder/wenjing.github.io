@@ -1,11 +1,12 @@
-<img width="432" height="25" alt="image" src="https://github.com/user-attachments/assets/c7e40231-4d56-4367-8a76-f14a6875854a" />---
+---
 permalink: /
 title: "Wenjing Xiao"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
 ## About Me
 
 I am a second-year Ph.D. student in Social Security at the School of Public Administration, East China Normal University, supervised by Jinfei Lu. My research focuses on pension systems and financial security in later life, alongside the relationships between care, family support, living arrangements, and older adults’ health.
