@@ -14,6 +14,8 @@ My research interests include population ageing, long-term care, social security
 
 I use longitudinal survey data and quantitative methods to study these questions, with experience in the Chinese Longitudinal Healthy Longevity Survey (CLHLS), survival analysis, and regression-based empirical analysis using Stata.
 
+[Download my CV (PDF)]({{ '/files/Wenjing_Xiao_CV.pdf' | relative_url }})
+
 ## Research Interests
 
 - Population ageing and social security policy
