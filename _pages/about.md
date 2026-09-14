@@ -44,7 +44,7 @@ My current research uses a randomized vignette experiment to investigate whether
 
 3. Yang, H., Wang, J., & **Xiao, W.** (2023). The impact of childbearing on marital satisfaction. *China Youth Study*, 2023(5), 82–93, 96. [In Chinese; CSSCI]
 
-4. Yang, H., Wang, J., **Xiao, W.**, & Liu, Y. (2023). The impact of Internet use on marital satisfaction. *Population Journal*, 45(1), 96–112. [In Chinese; CSSCI]
+4. Yang, H., Wang, J., **Xiao, W.**, & Liu, Y. (2023). [The impact of Internet use on marital satisfaction](https://rkxk.cbpt.cnki.net/WKH3/WebPublication/paperDigest.aspx?paperID=e27584fe-f5c3-461c-88eb-c8dcaddf87b5). *Population Journal*, 45(1), 96–112. [In Chinese; CSSCI]
 
 ## Manuscripts Submitted for Publication
 
