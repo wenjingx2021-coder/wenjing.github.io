@@ -47,8 +47,6 @@ My current research uses a randomized vignette experiment to investigate whether
 
 ## Manuscripts under Review
 
-- **Xiao, W.**, & Lu, J. Long-term care arrangements and out-of-pocket medical expenditures among disabled older adults in China: Evidence from the CLHLS 2018.
-
 - **Xiao, W.**, & Lu, J. Living arrangements and mortality risk among older adults.
 
 - Lu, J., & **Xiao, W.** Widowhood shock, weakened support systems, and mortality risk among older adults.
