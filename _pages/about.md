@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About Me
 
-I am a Ph.D. student in Social Security at the School of Public Administration, East China Normal University, Shanghai, China.
+I am a second-year Ph.D. student in Social Security at the School of Public Administration, East China Normal University, supervised by Jinfei Lu.
 
 My research interests include population ageing, long-term care, social security policy, pension systems and pension finance, and health inequality among older adults. My recent work examines how care arrangements, living arrangements, and family support relate to health outcomes, mortality risk, and medical expenditures in later life.
 
