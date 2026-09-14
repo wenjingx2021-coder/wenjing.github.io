@@ -8,11 +8,11 @@ redirect_from:
 ---
 ## About Me
 
-I am a second-year Ph.D. student in Social Security at the School of Public Administration, East China Normal University, supervised by Jinfei Lu.
+I am a second-year Ph.D. student in Social Security at the School of Public Administration, East China Normal University, supervised by Jinfei Lu. My research focuses on pension systems and financial security in later life, alongside the relationships between care, family support, living arrangements, and older adults’ health.
 
-My research interests include population ageing, long-term care, social security policy, pension systems and pension finance, and health inequality among older adults. My recent work examines how care arrangements, living arrangements, and family support relate to health outcomes, mortality risk, and medical expenditures in later life.
+My previous and ongoing studies examine long-term care arrangements, living arrangements, widowhood, and mortality in later life using longitudinal survey data. I also contribute to pension guide reports through pension benefit calculations, replacement-rate analysis, and retirement planning scenarios.
 
-I use longitudinal survey data and quantitative methods to study these questions, with experience in the Chinese Longitudinal Healthy Longevity Survey (CLHLS), survival analysis, and regression-based empirical analysis using Stata.
+My current research uses a randomized vignette experiment to investigate whether pension credits for childbearing and caregiving influence women’s fertility intentions. Building on this work, I aim to understand how employment histories, income inequalities, and unpaid care responsibilities shape gender differences in pension entitlements and financial security in later life.
 
 [Download my CV (PDF)]({{ '/files/Wenjing_Xiao_CV.pdf' | relative_url }})
 
