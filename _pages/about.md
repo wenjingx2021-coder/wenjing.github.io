@@ -19,10 +19,9 @@ My current research uses a randomized vignette experiment to investigate whether
 
 ## Research Interests
 
-- Population ageing and social security policy
-- Long-term care and older adults' health
-- Pension systems and pension finance
-- Health inequality among older adults
+- Pension systems and financial security in later life
+- gender inequalities in pension entitlements
+- family support, living arrangements, and older adults’ health.
 
 ## Education
 
@@ -54,9 +53,9 @@ My current research uses a randomized vignette experiment to investigate whether
 
 ## Research Skills
 
-- **Data:** CLHLS and CFPS; longitudinal survey data management, cleaning, and variable construction.
-- **Methods:** Survival analysis, regression modeling, instrumental variable estimation, robustness checks, and mechanism analysis.
-- **Software:** Stata.
+- **Methods:** Longitudinal survey analysis, survival analysis, regression modeling, and mediation analysis; pension benefit and replacement-rate calculations.
+- **Data and software:** CLHLS and CFPS; data cleaning and variable construction; Stata.
+-	**Languages:** English IELTS Overall 6.0 (Nov.2024) , CET-6.
 
 ## Contact
 
