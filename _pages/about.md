@@ -67,6 +67,8 @@ I contributed to pension guide reports by interpreting China’s three-pillar pe
 
 I also assessed supplementary retirement planning needs according to pension coverage, target replacement rates, and years to retirement, considering annuity insurance, retirement savings, wealth management products, and pension funds. This work connected my understanding of pension rules with questions about retirement income adequacy and differences in financial security.
 
+[View the 2025 Pension Guide (PDF)]({{ '/files/Pension_Guide_2025.pdf' | relative_url }})
+
 *The 2025 edition is provided for reference; the 2026 edition, to which I contributed, is complete but has not yet been officially released, and this page is expected to be updated with the new edition in October 2026.*
 
 ### Widowhood Shock, Support System Weakening, and Mortality Risk among Older Adults
