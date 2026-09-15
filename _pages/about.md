@@ -61,7 +61,7 @@ My current research uses a randomized vignette experiment to investigate whether
 
 ### Pension Guide Reports and Retirement Planning
 
-*Member, China Inclusive Ageing Finance Research Center (CIAFC) | September 2025 – September 2026*
+*Member, China Inclusive Ageing Finance Research Center (CIAFC) · September 2025 – September 2026*
 
 I contributed to pension guide reports by interpreting China’s three-pillar pension framework and calculating pension benefits and replacement rates under different contribution amounts and durations. This included comparing benefit levels across contribution tiers in the basic pension insurance scheme for urban and rural residents.
 
@@ -73,13 +73,13 @@ I also assessed supplementary retirement planning needs according to pension cov
 
 ### Widowhood Shock, Support System Weakening, and Mortality Risk among Older Adults
 
-*Co-author | June 2025 – May 2026 | Manuscript submitted for publication*
+*Co-author · June 2025 – May 2026 · Manuscript submitted for publication*
 
 Using four waves of the Chinese Longitudinal Healthy Longevity Survey (CLHLS) from 2008 to 2018, I examined widowhood and mortality with time-varying Cox proportional hazards models. The study investigated physical health deterioration, negative emotions, and weakened medical service support as potential pathways, using mediation analysis for survival data and bootstrap inference. It also examined differences by age, pension insurance coverage, and social interaction frequency.
 
 ### Fertility and Welfare of Older Adults
 
-*Research Assistant, National Social Science Fund Later-stage Project | 2021 – 2022*
+*Research Assistant, National Social Science Fund Later-stage Project · 2021 – 2022*
 
 I assisted with literature review and evidence synthesis on fertility behaviour, population ageing, and older adults’ welfare. Using CLHLS data, I analysed relationships between fertility behaviour and older adults’ health, including self-rated health and chronic disease risk, with OLS and logit models. I also contributed to project reports and the development of policy implications.
 
